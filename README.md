@@ -1,2 +1,2 @@
-\# VNP labs i vezbi valjda
+# VNP labs i vezbi valjda
 
