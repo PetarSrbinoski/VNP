@@ -1,1 +1,2 @@
-"# VNP" 
+\# VNP labs i vezbi valjda
+
